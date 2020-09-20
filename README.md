@@ -1,4 +1,4 @@
 # Live-Sketch-Using-Webcam
 OpenCV Application
 
-![alt text](Project1.png)
+![](Project1.png)
