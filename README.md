@@ -1,3 +1,3 @@
 # Live-Sketch-Using-Webcam
 OpenCv Application
-![Project.png](Project.png)
+![alt text](http://url/to/Project1.png)
