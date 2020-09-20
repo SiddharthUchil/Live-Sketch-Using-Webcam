@@ -1,3 +1,3 @@
 # Live-Sketch-Using-Webcam
 OpenCv Application
-![Screenshot](Project.png)
+![Project.png](Project.png)
