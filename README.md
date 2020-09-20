@@ -1,4 +1,4 @@
 # Live-Sketch-Using-Webcam
-OpenCv Application
+OpenCV Application
 
 ![alt text](Project1.png)
